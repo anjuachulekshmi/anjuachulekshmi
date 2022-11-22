@@ -1,7 +1,6 @@
-![logo](https://github.com/Dhanush-Saji/Dhanush-Saji/blob/main/github-banner.jpg)
-<h1 align="center">Hi 👋, I'm Dhanush Saji</h1>
-<!-- <h3 align="center">A passionate full stack developer from India</h3> -->
-<h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a></h3>
+<h1 align="center">Hi 👋, I'm Anjulekshmi</h1>
+<!-- <h3 align="center">A passionate Python Developer from India</h3> -->
+<h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Python+Developer" alt="Typing SVG" /></a></h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
@@ -31,7 +30,7 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Dhanush-Saji" target="_blank">
+<a href="https://github.com/anjuachulekshmi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/dhanush-saji" target="_blank">
@@ -70,25 +69,25 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 # 🏆 GitHub Stats
 <div align="center" style="display: flex; gap:50px">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanush-Saji&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anjuachulekshmi&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Saji&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjuachulekshmi&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
 
 </div>
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=Dhanush-Saji&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+<img src="https://streak-stats.demolab.com?user=anjuachulekshmi&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
 
 </div> 
 
 
- <img alt="Dhanush Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dhanush-Saji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+ <img alt="Anju Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anjuachulekshmi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
  
  
 
-![](https://github-profile-trophy.vercel.app/?username=Dhanush-Saji&column=-1&theme=chalk&rank=-?&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=anjuachulekshmi&column=-1&theme=chalk&rank=-?&margin-w=15)
 
 <hr>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Dhanush-Saji&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=anjuachulekshmi&&style=flat-square)  
