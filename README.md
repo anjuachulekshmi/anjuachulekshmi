@@ -14,11 +14,12 @@ Skilled in HTML, CSS, Javascript, ReactJS,, React Router, NodeJS and good in dat
 # 📍 About Me
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning flutter
+- 🌱 I’m learned MERN stack
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Adobe XD, Figma**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python django, React, PHP, Bootstrap, Mysql, C, C++, NODE, MongoDB,**
 
-- 📫 How to reach me **dhanushsaji1@gmail.com**
+- 📫 How to reach me **anjuachulekshmi836@gmail.com**
 
 - 👯 Self Motivated
 
